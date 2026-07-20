@@ -54,19 +54,20 @@ body {
   color: var(--charcoal);
   background: var(--white);
   line-height: 1.6;
-  -webkit-font-smoothing: antiali
+  -webkit-font-smoothing: antialiased;
+}
 .logo-text h2 {
     margin: 0;
-    font-size: 20px;
+    font-size: 9px;
     color: #2e7d32;
     font-weight: 700;
 }
 
 .logo-text p {
     margin: 0;
-    font-size: 12px;
+    font-size: 6px;
     color: #666;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     text-transform: uppercase;
 }
 
