@@ -58,17 +58,20 @@ body {
 }
 .logo-text h2 {
     margin: 0;
-    font-size: 9px;
+    font-size: 7px;
     color: #2e7d32;
     font-weight: 700;
+   line-height: 1;
+   white-space:nowrap;
 }
 
 .logo-text p {
     margin: 0;
-    font-size: 6px;
+    font-size: 5px;
     color: #666;
     letter-spacing: 1px;
     text-transform: uppercase;
+   white-space:nowrap;
 }
 
 .nav-logo {
