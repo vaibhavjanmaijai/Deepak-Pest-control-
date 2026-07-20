@@ -6,11 +6,11 @@
 
 :root {
   /* Color tokens */
-  --green-dark:   #4B5320;
-  --green:        #6B8E23;
-  --green-light:  #9CAF54;
-  --green-pale:   #F0F3E1;
-  --green-pale-2: #E4E8C8;
+  --green-dark:   #179C4A;
+  --green:        #2DBE60;
+  --green-light:  #6EDC8C;
+  --green-pale:   #EAF8EE;
+  --green-pale-2: #D9F5E2;
   --charcoal:     #1F2428;
   --charcoal-2:   #3A4247;
   --gray-600:     #5B6670;
